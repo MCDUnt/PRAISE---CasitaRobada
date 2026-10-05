@@ -35,11 +35,11 @@ El juego está construido sobre el framework de agentes provisto por los profeso
 
 En tu turno tenés que jugar **una carta de tu mano** para hacer una de estas acciones:
 
-| Acción                  | Condición                                                                        | Resultado                                                                 |
-|-------------------------|---------------------------------------------------------|------------------------|---------------------------------------------------------------------------|
-| **Llevarse de la mesa** | Tu carta tiene el mismo número que una o más cartas de la mesa                   | Te llevás todas las cartas coincidentes **junto con la tuya** a tu casita |
-| **Robar la casita**     | Tu carta tiene el mismo número que la carta superior de la casita de un oponente | Te llevás **toda su casita** y la ponés sobre la tuya                     |
-| **Tirar carta**         | No podés hacer ninguna de las anteriores                | Dejás una carta de tu mano **boca arriba en la mesa** (se expanden las cartas jugables de la mesa) |
+| Acción | Condición | Resultado |
+|---|---|---|
+| **Llevarse de la mesa** | Tu carta tiene el mismo número que una o más cartas de la mesa | Te llevás todas las cartas coincidentes **junto con la tuya** a tu casita |
+| **Robar la casita** | Tu carta tiene el mismo número que la carta superior de la casita de un oponente | Te llevás **toda su casita** y la ponés sobre la tuya |
+| **Tirar carta** | No podés hacer ninguna de las anteriores | Dejás una carta de tu mano **boca arriba en la mesa** (se expanden las cartas jugables de la mesa) |
 
 ### La casita (tu mazo)
 
